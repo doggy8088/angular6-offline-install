@@ -21,7 +21,7 @@
 
 ## 安裝步驟說明
 
-1. 先到 Releases 下載三個壓縮檔案
+1. 先到 [Releases](https://github.com/doggy8088/angular6-offline-install/releases/) 下載三個壓縮檔案
 
     * `node-v8.11.4-win-x64_npm-cache_angular-cli-v6.1.5.zip`
     * `VSCode-win32-x64-1.26.1.zip`
