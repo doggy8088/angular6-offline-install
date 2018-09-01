@@ -111,3 +111,7 @@
     ```bash
     npm i jquery @types/jquery
     ```
+
+## 相關文章
+
+* [離線安裝完整 Angular 開發環境的標準作業流程 (大型企業適用)](https://blog.miniasp.com/post/2018/09/01/Offline-installation-for-Angular-6-SOP.aspx)
