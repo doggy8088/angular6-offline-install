@@ -2,6 +2,7 @@
 
 ## 工具與版本
 
+* 適用 Windows 7 以上版本
 * Node.js v8.11.4 (64-bit)
     * npm v5.6.0
 * Angular CLI v6.1.5
